@@ -1,0 +1,32 @@
+#my{
+   background-color: yellow; 
+   color:red;
+}
+body{
+    background-color: rgb(135, 231, 199);
+}
+#king{
+    background-color: rgb(136, 123, 106);
+    color:blue;
+}
+#m{
+    background-color: yellow;
+    color:red;
+}
+#t{
+    background-color: rgb(135, 163, 188);
+    color: blue;
+}
+th{
+    border: 2px solid rgb(177, 98, 98);
+    background-color: yellow;
+    color:green;
+}
+#x{
+    background-color: yellow;
+    color: rgb(27, 209, 27);
+}
+#y{
+    background-color: rgb(136, 123, 106);
+    color:blue;
+}
